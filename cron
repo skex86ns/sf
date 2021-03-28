@@ -1,2 +1,2 @@
 # cron system...
-45 3 * * 6 make -f <my makefile>
+45 3 * * 6 make install -f <my makefile>
