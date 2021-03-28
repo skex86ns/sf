@@ -1,2 +1,2 @@
 # cron system...
-45 3 * * 6 /root/sf/sync.sh
+45 3 * * 6 make -f <my makefile>
